@@ -1,6 +1,6 @@
 ### Astrophysicist
 
-<!--
+
 
 - 🔭 I’m currently working on:
     - r-process elements
