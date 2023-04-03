@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/egjergo?tab=repositories">
-  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egjergo&langs_count=8&layout=compact&theme=vue-dark&hide=http" />
+  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egjergo&langs_count=8&layout=compact&theme=vue-dark&hide=html" />
 </a>
 
 <!--<a href="https://github.com/egjergo">
