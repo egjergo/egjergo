@@ -2,12 +2,15 @@
 
 <!--
 
-<!-- - 🔭 I’m currently working on r-process elements, multizone GCE modeling and the stellar IMF -->
+- 🔭 I’m currently working on:
+    - r-process elements
+    - multizone GCE modeling 
+    - the stellar IMF of star-forming sites
 - 📫 How to reach me: [my site](https://www.edagjergo.com/)
 
 
 <a href="https://github.com/egjergo?tab=repositories">
-  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egjergo&langs_count=8&layout=compact&theme=vue-dark" />
+  <img align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egjergo&langs_count=8&layout=compact&theme=vue-dark&hide=http" />
 </a>
 
 <!--<a href="https://github.com/egjergo">
