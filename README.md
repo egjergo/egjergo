@@ -1,6 +1,6 @@
 ### Astrophysicist
 
-
+Assistant Professor at Beihang University, Beijing, China.
 
 - 🔭 I’m currently working on:
     - r-process elements
